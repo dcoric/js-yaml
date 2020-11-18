@@ -30,7 +30,7 @@
   "jsdelivr": "dist/js-yaml.min.js",
   "dependencies": {
     "argparse": "^1.0.7",
-    "esprima": "^4.0.0"
+    "esprima": "dcoric/esprima"
   },
   "devDependencies": {
     "ansi": "^0.3.1",
